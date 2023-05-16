@@ -20,4 +20,4 @@ This set up is very confusing local git, google drive, workbooks, notebooks, blo
 
 I am currently having issues making this blog appear on my website. As the website does not show up. The lesson did give me some things to try. I will attempt to have a working blog by the time I write the next one.
 
-Until next time.
+Until next time. 
